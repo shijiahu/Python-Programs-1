@@ -1,0 +1,1 @@
+7. Write a program to find the number of ‘a’ followed by 0 in a string(eg a0kkka0hdhda0 should return the count 3)
